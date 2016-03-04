@@ -1,4 +1,2 @@
 #Mon premier Readme!
-c'est trop cool
-
-J'ai bien peur que ~~Subversion~~ ce soit fini
+c'est trop cool je vais pouvoir faire des projets plus compliqués
